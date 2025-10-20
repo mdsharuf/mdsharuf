@@ -42,7 +42,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mdsharuf&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center"> <a href="https://github.com/mdsharuf/cloud-cost-optimizer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdsharuf&repo=cloud-cost-optimizer&theme=dark" /> </a> <a href="https://github.com/mdsharuf/3-Tier-Deployment"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mdsharuf&repo=3-Tier-Deployment&theme=dark" /> </a> </p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mdsharuf&icon=0&color=0)](https://visitcount.itsvg.in)
